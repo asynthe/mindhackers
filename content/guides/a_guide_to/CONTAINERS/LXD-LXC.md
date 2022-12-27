@@ -1,5 +1,0 @@
-# LXD/LXC
----
-
-arch ->
-gentoo -> 

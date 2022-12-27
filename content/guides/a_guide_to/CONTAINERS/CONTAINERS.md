@@ -1,4 +1,0 @@
-# CONTAINERS
----
-
-[[Docker]] / [[Kubernetes]]

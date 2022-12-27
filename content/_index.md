@@ -1,10 +1,11 @@
 ---
 title: "main"
+draft: false
 ---
-# MAIN メイン
 
-## [GUIDES ガイド]({{< ref "/guides/guides.md" >}})
-## [PIX 写真]({{< ref "/pix/pix.md" >}})
+# Welcome ! / Bienvenido ! / ようこそ！
+# MAIN PAGE メインページ
 
-
-## [Me 私]()
+### [GUIDES ガイド]({{< ref "/guides/_index.md" >}})
+### [PIX 写真]({{< ref "/pix/_index.md" >}})
+### [ME 私]()
