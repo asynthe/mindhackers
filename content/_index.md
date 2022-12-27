@@ -1,9 +1,10 @@
 ---
-title: "Home"
+title: "main"
 ---
+# MAIN メイン
 
-# Hi there
+## [GUIDES ガイド]({{< ref "/guides/guides.md" >}})
+## [PIX 写真]({{< ref "/pix/pix.md" >}})
 
-Welcome to your new Hugo site.
 
-Now go build something great.
+## [Me 私]()

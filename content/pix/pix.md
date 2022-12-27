@@ -1,0 +1,6 @@
+BREADCRUMB
+
+#### SETUP
+CANNON EOS M200 WITH 15-45MM LENS
+
+[2022]({{< ref "year/2022/2022.md" >}})
