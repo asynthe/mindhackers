@@ -3,3 +3,4 @@ languageCode: en-us
 title: M/i/n/d/h/a/c/k/e/r/s
 theme: hugo-starter-theme
 #enableGitInfo: true
+refLinksErrorLevel: WARNING

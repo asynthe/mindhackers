@@ -1,11 +1,11 @@
 {{ partial "header.html" . }}
-{{ partial "breadcrumb.html" . }}
+-> {{ partial "breadcrumbs.html" . }}
 
 <h1>{{ .Title }}</h1>
 
 {{ .Content }}
 
-{{ range.Data.Pages }}
+<!--- {{ range.Data.Pages }}
 <article class="post-snippet">
   <h3>
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -14,6 +14,6 @@
 		{{ .Date.Format "January 2, 2006" }}
 	</time>
 </article>
-{{ end }}
+{{ end }} --->
 
 {{ partial "footer.html" . }}
